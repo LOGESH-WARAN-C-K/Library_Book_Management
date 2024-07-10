@@ -1,6 +1,5 @@
 # Library_Book_Management
 
-Certainly! Here's a more detailed README file tailored for a Java-based library management system:
 
 ---
 
